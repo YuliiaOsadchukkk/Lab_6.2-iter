@@ -1,0 +1,4 @@
+﻿  Source.cpp
+F:\Навчання\Лаб. з АП\Лабораторні 6.1-6.3(6.4)\Lab_6.2---iter\Lab_6.2---iter\Lab_6.2---iter\Source.cpp(40,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+F:\Навчання\Лаб. з АП\Лабораторні 6.1-6.3(6.4)\Lab_6.2---iter\Lab_6.2---iter\Lab_6.2---iter\Source.cpp(41,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab_6.2---iter.vcxproj -> F:\Навчання\Лаб. з АП\Лабораторні 6.1-6.3(6.4)\Lab_6.2---iter\Lab_6.2---iter\Debug\Lab_6.2---iter.exe
